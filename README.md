@@ -1,4 +1,4 @@
-# Olá, eu sou José Paulo Roveri 👋
+# Olá, eu sou José Paulo Roveri de Camargo👋
 
 🎓 Estudante de **Engenharia da Computação na FACENS**  
 💻 Foco em **Desenvolvimento Web e Desenvolvimento de Software**  

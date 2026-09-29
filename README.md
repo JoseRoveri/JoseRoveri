@@ -78,7 +78,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 ### Em evolução
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://techicons.dev" alt="Java Logo" width="50" height="50" />
+<img align="center" alt="José-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
 
 

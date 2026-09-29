@@ -65,6 +65,9 @@ O projeto envolve desenvolvimento web, backend e banco de dados.
 ## 🛠️ Tecnologias
 
 ### Principais
+<div style="display: flex; justify-content: center; align-items: center;">
+<img align="center" alt="Nicolli-HTML" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 HTML • CSS • JavaScript • React • Git • GitHub
 

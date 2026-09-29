@@ -78,7 +78,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 
 ### Em evolução
 <div style="display: flex; justify-content: center; align-items: center;">
-<img align="center" alt="José-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/java-original.svg">
+<img align="center" alt="José" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/java-original.svg">
 
 
 Java • Python • PHP • SQL • Banco de Dados • Backend

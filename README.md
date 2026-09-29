@@ -79,8 +79,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 ### Em evolução
 <div style="display: flex; justify-content: center; align-items: center;">
 <img align="center" alt="José-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="José-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="José-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="José-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-original.svg">
 </div>
-
 
 
 Java • Python • PHP • SQL • Banco de Dados • Backend
